@@ -1,3 +1,3 @@
 export default {
-    serviceBaseUrl: "//ads.dhgate.com/sailplatform/base/"
+    serviceBaseUrl: "//www.baidu.com"
 }
